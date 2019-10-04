@@ -2,6 +2,7 @@
   "name": "@highlightjs/nsis",
   "version": "0.0.0",
   "description": "highlight.js syntax definition for the NSIS language",
+  "license": "BSD-3-Clause",
   "main": "nsis.js",
   "files": [
     "nsis.js"
@@ -16,7 +17,6 @@
     "highlightjs",
     "nsis"
   ],
-  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "ava": "^2.4.0",
