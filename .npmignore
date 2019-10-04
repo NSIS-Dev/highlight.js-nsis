@@ -1,0 +1,18 @@
+# dependencies
+bower_components/
+node_modules/
+vendor/
+
+# package manager files
+npm-debug.log*
+yarn-error.log
+shrinkwrap.yaml
+
+# development
+.circleci
+.editorconfig
+.eslintrc.json
+tsconfig.tsbuildinfo
+
+# project specific
+todo.md

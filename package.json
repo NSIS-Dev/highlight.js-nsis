@@ -1,0 +1,35 @@
+{
+  "name": "@highlightjs/nsis",
+  "version": "0.0.0",
+  "description": "highlight.js syntax definition for the NSIS language",
+  "main": "nsis.js",
+  "files": [
+    "nsis.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-nsis.git"
+  },
+  "keywords": [
+    "highlight.js",
+    "hljs",
+    "highlightjs",
+    "nsis"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.1",
+    "husky": "^3.0.0"
+  },
+  "scripts": {
+    "lint": "eslint nsis.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  }
+}
