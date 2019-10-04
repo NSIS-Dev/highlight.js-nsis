@@ -5,7 +5,7 @@
 [![CircleCI](https://flat.badgen.net/circleci/github/highlightjs/highlightjs-nsis)](https://circleci.com/gh/highlightjs/highlightjs-nsis)
 [![David](https://flat.badgen.net/david/dev/highlightjs/highlightjs-nsis)](https://david-dm.org/highlightjs/highlightjs-nsis?)
 
-highlight.js syntax definition for the NSIS language
+[highlight.js](https://github.com/highlightjs/highlight.js) syntax definition for the NSIS language
 
 ## Usage
 
