@@ -13,6 +13,7 @@ shrinkwrap.yaml
 .editorconfig
 .eslintrc.json
 tsconfig.tsbuildinfo
+test/
 
 # project specific
 todo.md
