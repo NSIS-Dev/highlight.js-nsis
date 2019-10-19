@@ -1,9 +1,9 @@
 /**
  * highlight.js syntax definition for the NSIS language
  *
- * @see https://github.com/isagalaev/highlight.js
+ * @see https://github.com/NSIS-Dev/highlight.js-nsis
  *
- * @package: highlightjs-nsis
+ * @package: @nsis/highlight.js
  * @author:  Jan T. Sott
  * @since:   2013-12-25
  */
