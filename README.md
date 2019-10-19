@@ -26,7 +26,7 @@ If you're using a bundler
    
 ```js
 const hljs = require('highlight.js');
-const hljsDefineNSIS = require('@highlightjs/nsis');
+const hljsDefineNSIS = require('@nsis/highlight.js');
 
 hljsDefineNSIS(hljs);
 hljs.initHighlightingOnLoad();
