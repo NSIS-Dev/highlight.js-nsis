@@ -1,4 +1,4 @@
-# highlightjs-nsis
+# highlight.js-nsis
 
 [![npm](https://flat.badgen.net/npm/license/@highlightjs/nsis)](https://www.npmjs.org/package/@highlightjs/nsis)
 [![npm](https://flat.badgen.net/npm/v/@highlightjs/nsis)](https://www.npmjs.org/package/@highlightjs/nsis)
