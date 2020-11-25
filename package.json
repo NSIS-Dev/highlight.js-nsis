@@ -22,7 +22,7 @@
     "ava": "^2.4.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.1.2",
     "husky": "^3.0.8",
     "util": "^0.12.1"
   },
